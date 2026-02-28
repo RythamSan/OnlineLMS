@@ -1,5 +1,6 @@
 # Maven
 target/
+build/
 
 # Eclipse
 .project
@@ -16,3 +17,5 @@ target/
 # OS
 .DS_Store
 Thumbs.db
+
+
